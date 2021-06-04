@@ -1,7 +1,7 @@
-Full stack web developer and software architect for systems, with a thing for interfaces and UI.
+Development lead on bespoke systems, interfaces, and mobile apps at scale for a number of industries. Strong experience with React, React Native, TypeScript, and Node.js.
 
-Independent game developer and designer creating weird and wonderful games.
+Composer, music producer and performer of works in many genres. Also produces works for games and film. Experienced with sound design.
 
-Experienced in React, TypeScript, GameMaker and Node.js.
+Game developer and designer with an interest in gamification and fun UI/UX.
 
 ➡️⠀[Check out my website for all my stuff](https://niks.space)
